@@ -1,5 +1,7 @@
 # Pedal backend
 
+![demo](https://raw.githubusercontent.com/stereohorse/pedal-backend/master/demo.gif)
+
 #### Installation
 
 ```
